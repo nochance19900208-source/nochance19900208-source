@@ -1,16 +1,10 @@
 # Hi there 👋
 
 Senior Software Engineer with expertise in building and deploying scalable web applications. Skilled in modern frontend and backend technologies, cloud infrastructure, CI/CD pipelines, and automation. Shopify is my specialist. Passionate about optimizing workflows and delivering high-quality software solutions.
-<style>
-.icons img {
-  transition: transform 0.2s ease-in-out;
-}
-.icons img:hover {
-  transform: scale(1.2) rotate(5deg);
-}
-</style>
+
 
 ### 🧰 Technologies & Tools
+
 <p align="center" class="icons">
   <img src="https://skillicons.dev/icons?i=react,python,js,cpp,webpack,mysql,ts,aws,cs&perline=9" />
   <br/>
