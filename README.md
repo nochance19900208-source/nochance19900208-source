@@ -1,6 +1,6 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Tanmay+Arora)](https://git.io/typing-svg)-->
 
-<img alt="Hi, I'm Tanmay Arora" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey...I'm%20Tanmay%20Arora" style="width: 100%;" />
+<img alt="Hi, I'm No chance" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey...I'm%20No%20Chance" style="width: 100%;" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+repository;)](https://git.io/typing-svg)
 
