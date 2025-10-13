@@ -1,5 +1,9 @@
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Tanmay+Arora)](https://git.io/typing-svg)-->
 
-<h1 align="center">Hi there 👋</h1>
+<img alt="Hi, I'm Tanmay Arora" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey...I'm%20Tanmay%20Arora" style="width: 100%;" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+repository;)](https://git.io/typing-svg)
+
 Senior Software Engineer with expertise in building and deploying scalable web applications. Skilled in modern frontend and backend technologies, cloud infrastructure, CI/CD pipelines, and automation. Shopify is my specialist. Passionate about optimizing workflows and delivering high-quality software solutions:
 
 <h3>🚀 Technologies & Tools</h3>
