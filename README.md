@@ -134,7 +134,7 @@ Senior Software Engineer with expertise in building and deploying scalable web a
 
 <br><br>
 
-
+![Brittney's Github Stats](https://github-readme-stats.vercel.app/api?username=nochance19900208-source&count_private=true&show_icons=true)
 
 <p style="display: flex,">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nochance19900208-source&hide_langs_below=1&theme=radical&line_height=27&layout=compact" /></p>
